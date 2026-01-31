@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/anandshankar-creator/sample-app.git/static/css/main.fb665e37.css",
-    "main.js": "/anandshankar-creator/sample-app.git/static/js/main.ae232881.js",
-    "static/js/453.950c9334.chunk.js": "/anandshankar-creator/sample-app.git/static/js/453.950c9334.chunk.js",
-    "index.html": "/anandshankar-creator/sample-app.git/index.html",
-    "main.fb665e37.css.map": "/anandshankar-creator/sample-app.git/static/css/main.fb665e37.css.map",
-    "main.ae232881.js.map": "/anandshankar-creator/sample-app.git/static/js/main.ae232881.js.map",
-    "453.950c9334.chunk.js.map": "/anandshankar-creator/sample-app.git/static/js/453.950c9334.chunk.js.map"
+    "main.css": "/sample-app/static/css/main.fb665e37.css",
+    "main.js": "/sample-app/static/js/main.16c2f1f0.js",
+    "static/js/453.950c9334.chunk.js": "/sample-app/static/js/453.950c9334.chunk.js",
+    "index.html": "/sample-app/index.html",
+    "main.fb665e37.css.map": "/sample-app/static/css/main.fb665e37.css.map",
+    "main.16c2f1f0.js.map": "/sample-app/static/js/main.16c2f1f0.js.map",
+    "453.950c9334.chunk.js.map": "/sample-app/static/js/453.950c9334.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb665e37.css",
-    "static/js/main.ae232881.js"
+    "static/js/main.16c2f1f0.js"
   ]
 }
